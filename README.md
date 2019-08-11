@@ -66,3 +66,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### Development Tools 
+
+ `npm i -D css-mqpacker npm-run-all postcss postcss-apply postcss-color-hwb postcss-cssnext postcss-custom-media postcss-custom-selectors postcss-font-magician postcss-import postcss-loader postcss-nested postcss-nesting  postcss-preset-env react-app-rewire-postcss react-app-rewired stylelint stylelint-webpack-plugin json-server postcss-cli`
+

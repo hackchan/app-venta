@@ -1,0 +1,34 @@
+:root {
+    --blanco:#fff;
+    --info:#f4f4f7;
+    --navy: #000080;
+    --blue-dark:rgba(21, 67, 96);
+    --blue-light:rgba(26, 82, 118);
+    --blue-link:rgba(52, 152, 219);
+    --blue-bar:#203845;
+  
+    --orange-dark:rgba(214, 137, 16);
+    --orange-light:rgba(230, 126, 34);
+  
+    --gray-dark:rgba(23, 32, 42);
+    --gray-light:rgba(44, 62, 80);
+    --gray-ultra-light:rgba(248, 249, 249  );
+  
+    --green-button:#95CA3E;
+    --pink-button:#C43A32;
+    --pink-light-button:#FD7D7A;
+
+    --barra-alto:50px;
+
+    --button:{
+        font-size:20px;
+        border:1px solid var( --green-button);
+        border-radius:10px;
+        background:var(--gray-light);
+        color:var(--gray-ultra-light);
+        padding: .5em 1em;
+        text-transform:uppercase;
+        cursor:pointer;
+    }
+  }
+
